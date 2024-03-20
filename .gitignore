@@ -11,4 +11,4 @@ tex2pdf*
 .coverage
 .idea
 .vscode
-
+env/
